@@ -1,0 +1,46 @@
+var eventTemplateData = {
+    eventData: [
+        {
+            category : 'mensch&medizin',
+            tag: 'menschundmedizin',
+            events: [
+                {
+                    title: 'Workshop "Heilen ohne Perspektiven, T\u00f6tung auf Verlangen oder Hilfe bei einem Suizid?"',
+                    time: '07. Februar 2013, 18 bis 21 Uhr',
+                    place: 'ESG LMU',
+                    text: '<p>Angesichts der neuen medizinischen M\u00f6glichkeiten werden \u00c4rzte h\u00e4ufig in schwierige Entscheidungsprozesse verwickelt: Muss alles medizinisch Machbare auch gemacht werden? Gibt es ein Recht auf einen selbstbestimmten Tod? Welche Rolle hat dabei der Arzt? Wie stellt sich die politische und juristische Diskussion dar, auch im Hinblick auf die rechtliche Situation in einigen unserer Nachbarl\u00e4nder? Wie begleitet man die Entscheidungsprozesse eines Patienten? Diese und weitere Fragen werden von den Fachleuten mit den TeilnehmerInnen diskutiert.</p><p>Referenten:<br>Prof. Dr. Ulrich Schroth (Jura, LMU) und<br>PD Dr. Arne Manzeschke (Theologische Ethik und Anthropologie, Uni Bayreuth, und landeskirchlicher Beauftragter f\u00fcr Medizin-Ethik am Institut f\u00fcr Technik, Theologie und Naturwissenschaften, LMU)</p>'
+                }
+            ]
+        },
+        {
+            category : 'UniDialoge',
+            tag: 'unidialoge',
+            events: [
+                {
+                    title: 'UniDialog: Nachhaltigkeit',
+                    time: '04. Februar 2014, 19 Uhr c.t.',
+                    place: 'LMU Hauptgeb\u00e4ude',
+                    text: 'Dialogpartner:<br>Prof. Dr. Heinrich Bedford-Strohm (Landesbischof der ev.-luth. Landeskirche in Bayern) und<br>Prof. Rolf Nonnenmacher, KPMG-Chairman f\u00fcr Europa, Naher Osten, Afrika und Indien'
+                }
+            ]
+        },
+        {
+            category : 'person&studium',
+            tag: 'personundstudium',
+            events: [
+                {
+                    title: 'Basiskurs Selbstkompetenz \u2010 Neuauflage im Januar 2014',
+                    time: 'Januar bis Juli 2014',
+                    place: 'unterschiedlich',
+                    text: '<p><a href="misc/PERSON_STUDIUM.pdf">Hier</a> findet ihr den Flyer zum Workshop.</p><p>Ausgehend von dem Motto "Das gr\u00f6\u00dfte Potential, das wir haben, ist unsere eigene Pers\u00f6nlichkeit", werden in f\u00fcnf Workshops und einer begleitenden Supervisionsgruppe Schl\u00fcsselqualifikationen wie Kommunikations- und Teamf\u00e4higkeit vermittelt. Zugleich wird an Zielvorstellungen f\u00fcr die eigene pers\u00f6nliche Weiterentwicklung gearbeitet. Das Programm dauert 6 Monate, von Januar bis Juli 2014, und wird in einer festen Kursgruppe durchgef\u00fchrt.</p><p>Im Set der bestehenden Kursangebote an der Universit\u00e4t liegt das Spezifikum dieses Programms zum einen in der Fokussierung auf die eigene Person und ihre Potentiale, zum anderen im Zeitraum von einem halben Jahr, der einen kontinuierlich begleiteten Entwicklungsprozess gew\u00e4hrleistet.</p>'
+                }
+            ]
+        },
+        {
+            category : 'Studienabbruch - Lebensaufbruch?',
+            tag: 'studienabbruch',
+            events: [
+            ]
+        }
+    ]
+};

@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+}
+
+.header-img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+body {
+	background: #eee;
+}
+
+html, body {
+	height: 100%;
+}
+
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -60px;
+}
+
+.footer {
+	background-color: #f5f5f5;
+	padding: 15px;
+	text-align: center;
+}
+
+.footer, .push {
+	height: 60px;
+}
+
+h2 {
+  color: rgb(51, 153, 255);
+}
